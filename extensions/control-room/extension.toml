@@ -1,0 +1,7 @@
+id = "control-room"
+name = "Control Room"
+description = "A theme inspired by the seafoam green, warm beige, and safety signal colors of mid-century industrial control rooms."
+version = "0.1.0"
+schema_version = 1
+authors = ["Zed Industries"]
+repository = "https://github.com/zed-industries/zed"
